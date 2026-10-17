@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students><student><id>1</id><name>Rahul</name><course>BCA</course><marks>85</marks></student><student><id>2</id><name>Amit</name><course>MCA</course><marks>90</marks></student><student><id>3</id><name>Priya</name><course>BCA</course><marks>88</marks></student></students>
